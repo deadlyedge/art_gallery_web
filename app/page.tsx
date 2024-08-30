@@ -4,7 +4,7 @@ import { Contents } from "@/components/contents"
 
 export default function Home() {
   return (
-    <main className='block m-0'>
+    <main className='m-0'>
       <Navbar />
       <Contents />
       <Bottom />
