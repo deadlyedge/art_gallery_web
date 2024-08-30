@@ -1,6 +1,6 @@
-import { Navbar } from "./components/navbar"
-import { Bottom } from "./components/bottom"
-import { Contents } from "./components/contents"
+import { Navbar } from "@/components/navbar"
+import { Bottom } from "@/components/bottom"
+import { Contents } from "@/components/contents"
 
 export default function Home() {
   return (
